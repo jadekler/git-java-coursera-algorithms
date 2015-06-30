@@ -13,3 +13,8 @@ hs_err_pid*
 
 .idea
 .DS_Store
+
+build
+.gradle
+*wrapper
+*.iml
